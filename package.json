@@ -1,0 +1,14 @@
+{
+  "name": "raknet-debug-proxy",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@serenityjs/binarystream": "^2.6.6"
+  }
+}
